@@ -1,4 +1,6 @@
-### Hi, shabbywu is here 👋
+<h1 align="center">
+  Hi, shabbywu is here 👋
+</h1>
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shabbywu&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="zhengyima's GitHub stats" height="185px" /><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shabbywu&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide=squirrel&count_private=true&exclude_repo=michangsheng,Skul-Decompile" alt="Top Langs" height="185px" />
 
